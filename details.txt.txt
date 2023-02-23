@@ -1,2 +1,13 @@
 ManjulaKumara - INDEXNO
+<<<<<<< HEAD
 L.H.M Fernando 
+=======
+Sathira Bandara
+U.Sandaruwan
+H.M.M.P.Herath
+Kusal Rangana
+S.P.L. Perera
+Thakshila Gunathilaka
+Pasindu Akalanka
+I.T.Amarasooriya
+>>>>>>> 5ae47071b90867639314d29636a3db7fd5b29eb0
